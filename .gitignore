@@ -28,8 +28,10 @@ fp-info-cache
 # All zip files
 *.zip
 
-# Only track the project, pcb and schematic files
+# Only track the project, pcb, schematic files and custom libraries
 hardware/*
 !hardware/*.kicad_pcb
 !hardware/*.kicad_pro
 !hardware/*.kicad_sch
+!hardware/*.pretty
+!hardware/fp-lib-table
