@@ -4968,7 +4968,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "custom footprints:MP001179"
+		(property "Footprint" "CustomLocalLib:MP001179"
 			(at 215.9 79.756 90)
 			(effects
 				(font
@@ -5046,7 +5046,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "custom footprints:KXOB25-03X4F-TR"
+		(property "Footprint" "CustomLocalLib:KXOB25-03X4F-TR"
 			(at 48.26 69.596 90)
 			(effects
 				(font
@@ -5490,7 +5490,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "custom footprints:MP001179"
+		(property "Footprint" "CustomLocalLib:MP001179"
 			(at 215.9 89.916 90)
 			(effects
 				(font
